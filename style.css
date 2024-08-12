@@ -45,6 +45,9 @@ a {
   justify-content: space-between;
   height: 80px;
 }
+.main-header-left>a>img {
+  object-fit: contain;
+}
 /* .main-header-right>button {
   display: none;
 } */
